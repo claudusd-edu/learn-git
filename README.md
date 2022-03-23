@@ -1,4 +1,6 @@
-# learn
+
 
 [README](README.md)
-[ADAPTOR](adapter.md)
+[ADAPTOR](adapter.md) 
+[singleton] (singleton.md)
+
